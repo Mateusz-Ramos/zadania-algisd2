@@ -1,0 +1,14 @@
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\bin\Debug\net8.0\Zadanie 6.exe
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\bin\Debug\net8.0\Zadanie 6.deps.json
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\bin\Debug\net8.0\Zadanie 6.runtimeconfig.json
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\bin\Debug\net8.0\Zadanie 6.dll
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\bin\Debug\net8.0\Zadanie 6.pdb
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\Zadanie 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\Zadanie 6.AssemblyInfoInputs.cache
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\Zadanie 6.AssemblyInfo.cs
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\Zadanie 6.csproj.CoreCompileInputs.cache
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\Zadanie 6.dll
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\refint\Zadanie 6.dll
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\Zadanie 6.pdb
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\Zadanie 6.genruntimeconfig.cache
+C:\Users\mramos\Desktop\Zadania ALG\Zadanie 6\Zadanie 6\obj\Debug\net8.0\ref\Zadanie 6.dll
